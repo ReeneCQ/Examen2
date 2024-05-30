@@ -4,6 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        //EXAMEN02
         {
             IProveedor proveedorElectronica = new ProveedorElectronica();
             IProveedor proveedorRopa = new ProveedorRopa();
